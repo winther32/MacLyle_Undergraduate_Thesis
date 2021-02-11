@@ -1,4 +1,6 @@
-# Abstract
+# Dynamic Balancing of Scientific HPC Applications on Institutional Clusters
+By Mac Lyle
+## Abstract
 
 In an age of ever expanding data sets, there is an increasing demand for high performance computing (HPC) in the scientific community. In order to maximize the performance of existing hardware, researchers have been looking for innovative and cost effective ways to expand and/or optimize their clusters. This thesis first provides a quick summary on the traditional methods that are currently in use in institutional clusters followed by some of the new services being offered to help researchers expand their computational resources. Most importantly, three recent papers propose new ways to optimize current hardware to increase total job throughput and utilization of a cluster. The methods proposed take advantage of dynamic allocation, both on the application level and the system level.
 
